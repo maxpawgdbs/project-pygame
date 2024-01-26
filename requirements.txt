@@ -1,0 +1,4 @@
+perlin-noise==1.12
+pygame==2.5.2
+numpy==1.25.2
+matplotlib==3.8.2
